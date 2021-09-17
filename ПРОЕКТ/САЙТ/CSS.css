@@ -1,0 +1,17 @@
+.body {
+    background:url(САЙТ/фон.jpg) no-repeat;
+    -moz-background-size: 100%;
+    -webkit-background-size: 100%;
+    -o-background-size:100%;
+    background-size:100%;
+}
+.ghj{
+    color: rgb(255, 238, 0);
+}
+html{
+
+ font-size: 50px;
+}
+.нумерация{
+    color:rgb(255, 0, 0);
+}
